@@ -1,3 +1,4 @@
+DEL appetizers
 HMSET appetizers 1 "Spare Ribs" 2 "Sesame Prawn Toast" 3 "Prawn Crackers"
 HMSET appetizers 4 "Crispy Pancake Roll" 5 "Mini Spring Rolls" 6 "Samosas"
 HMSET appetizers 7 "Crispy Aromatic Duck" 8 "Fortune Cookies" 9 "Satay Chicken"
