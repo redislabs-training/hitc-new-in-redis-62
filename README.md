@@ -103,6 +103,7 @@ TODO
 
 Useful links to help you learn more about Redis:
 
+* [Redis 6.2 Release Blog post at Redis Labs](https://redislabs.com/blog/redis-6-2-the-community-edition-is-now-available/)
 * [Redis Enterprise Cloud](https://redislabs.com/redis-enterprise-cloud?utm_medium=referral&utm_source=redisUniversity&utm_campaign=hitcredis62) - free 30Mb starter tier
 * [Redis University](https://university.redislabs.com)
 * [redis.io](https://redis.io)
