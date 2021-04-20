@@ -6,7 +6,7 @@ TODO description of the things we cover in the video.
 
 If you enjoyed this video and would like to see more, be sure to [subscribe to our YouTube channel](https://www.youtube.com/redisuniversity).  We're also on Discord, [join us](https://discord.gg/redis​) for ongoing Redis chat!
 
-## Setup
+## Setup and Load Sample Data
 
 To try out the new Redis 6.2 features covered in the video, use Docker and `docker-compose` to start a Redis server like so:
 
@@ -14,6 +14,40 @@ To try out the new Redis 6.2 features covered in the video, use Docker and `dock
 $ git clone https://github.com/redislabs-training/hitc-new-in-redis-62.git
 $ cd hitc-new-in-redis-62
 $ docker-compose up -d
+Creating network "hitc-new-in-redis-62_default" with the default driver
+Creating hitc_redis ... done
+$
+```
+
+Load the sample data from the shell in the container:
+
+```
+$ docker exec -it hitc_redis sh
+/data # /sampledata/load_all.sh
+(integer) 0
+OK
+OK
+(integer) 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+(integer) 0
+OK
+OK
+(integer) 0
+"1617307200000-0"
+"1617307231000-0"
+"1617307262000-0"
+...
+(integer) 6
+# exit
+$
 ```
 
 Use the `redis-cli` in the container to enter Redis commands and make sure you have Redis 6.2 or later:
@@ -21,7 +55,7 @@ Use the `redis-cli` in the container to enter Redis commands and make sure you h
 ```bash
 $ docker exec -it hitc_redis redis-cli
 127.0.0.1:6379> info server
-# Server
+...
 redis_version:6.2.1
 ...
 ```
