@@ -10,7 +10,7 @@ Redis 6.2 introduced lots of new features and enhancements.  In the video and th
 4. The new `HRANDFIELD` command.
 5. The new `SMISMEMBER` command.
 
-If you enjoyed this video and would like to see more, be sure to [subscribe to our YouTube channel](https://www.youtube.com/redisuniversity).  We're also on Discord, [join us](https://discord.gg/redis​) for ongoing Redis chat!
+If you enjoyed this video and would like to see more, be sure to [subscribe to our YouTube channel](https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig).  We're also on Discord, [join us](https://discord.gg/redis​) for ongoing Redis chat!
 
 ## Setup and Load Sample Data
 
@@ -283,6 +283,6 @@ Useful links to help you learn more about Redis:
 * [Redis University](https://university.redislabs.com)
 * [redis.io](https://redis.io)
 * [Redis Discord](https://discord.gg/redis)
-* [Redis University YouTube Channel](https://www.youtube.com/redisuniversity)
+* [Redis Labs YouTube Channel](https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig)
 * [Redis Developer](https://developer.redislabs.com/)
 * [Redis Labs](https://redislabs.com/)
