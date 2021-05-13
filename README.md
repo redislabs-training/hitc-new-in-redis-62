@@ -1,6 +1,6 @@
 # What's New in Redis 6.2!
 
-This repository contains example data and exercises to accompany the Redis University "What's New in Redis 6.2" Head in the Corner video on YouTube.
+This repository contains example data and exercises to accompany the Redis University "What's New in Redis 6.2" Head in the Corner [video on YouTube](https://www.youtube.com/watch?v=uxRM17V-QzY).
 
 Redis 6.2 introduced lots of new features and enhancements.  In the video and this accompanying repository, we'll look at five of them:
 
@@ -10,7 +10,7 @@ Redis 6.2 introduced lots of new features and enhancements.  In the video and th
 4. The new `HRANDFIELD` command.
 5. The new `SMISMEMBER` command.
 
-If you enjoyed this video and would like to see more, be sure to [subscribe to our YouTube channel](https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig).  We're also on Discord, [join us](https://discord.gg/redis​) for ongoing Redis chat!
+If you enjoyed this video and would like to see more, be sure to [subscribe to our YouTube channel](https://www.youtube.com/redislabs).  We're also on Discord, [join us](https://discord.gg/redis​) for ongoing Redis chat!
 
 ## Setup and Load Sample Data
 
