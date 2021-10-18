@@ -10,7 +10,7 @@ Redis 6.2 introduced lots of new features and enhancements.  In the video and th
 4. The new `HRANDFIELD` command.
 5. The new `SMISMEMBER` command.
 
-If you enjoyed this video and would like to see more, be sure to [subscribe to our YouTube channel](https://www.youtube.com/redislabs).  We're also on Discord, [join us](https://discord.gg/redis​) for ongoing Redis chat!
+If you enjoyed this video and would like to see more, be sure to [subscribe to our YouTube channel](https://youtube.com/redisinc).  We're also on Discord, [join us](https://discord.gg/redis) for ongoing Redis chat!
 
 ## Setup and Load Sample Data
 
@@ -278,11 +278,13 @@ The new [`SMISMEMBER` command](https://redis.io/commands/smismember) allows us t
 
 Useful links to help you learn more about Redis:
 
-* [Redis 6.2 Release Blog post at Redis Labs](https://redislabs.com/blog/redis-6-2-the-community-edition-is-now-available/)
-* [Redis Enterprise Cloud](https://redislabs.com/redis-enterprise-cloud?utm_medium=referral&utm_source=redisUniversity&utm_campaign=hitcredis62) - free 30Mb starter tier
-* [Redis University](https://university.redislabs.com)
+* [Redis 6.2 Release Blog post at redis.com](https://redis.com/blog/redis-6-2-the-community-edition-is-now-available/)
+* [Redis 6.2 GEOSEARCH command repo](https://github.com/redis-developer/introducing-the-geosearch-command)
+* [Redis 6.2 GEOSEARCH command video](https://www.youtube.com/watch?v=ZmzuIsWwAzM)
+* [Redis Enterprise Cloud](https://redis.com/redis-enterprise-cloud?utm_medium=referral&utm_source=redisUniversity&utm_campaign=hitcredis62) - free 30Mb starter tier
+* [Redis University](https://university.redis.com)
 * [redis.io](https://redis.io)
 * [Redis Discord](https://discord.gg/redis)
-* [Redis Labs YouTube Channel](https://www.youtube.com/channel/UCD78lHSwYqMlyetR0_P4Vig)
-* [Redis Developer](https://developer.redislabs.com/)
-* [Redis Labs](https://redislabs.com/)
+* [Redis YouTube Channel](https://youtube.com/redisinc)
+* [Redis Developer](https://developer.redis.com/)
+* [Redis](https://redis.com/)
