@@ -285,6 +285,8 @@ Useful links to help you learn more about Redis:
 * [Redis University](https://university.redis.com)
 * [redis.io](https://redis.io)
 * [Redis Discord](https://discord.gg/redis)
+* [Redis Developer Relations Live Streaming Schedule](https://developer.redis.com/redis-live/)
 * [Redis YouTube Channel](https://youtube.com/redisinc)
+* [Redis Twitch Channel](https://twitch.tv/redisinc)
 * [Redis Developer](https://developer.redis.com/)
 * [Redis](https://redis.com/)
