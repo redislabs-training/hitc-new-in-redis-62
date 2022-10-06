@@ -3,7 +3,7 @@ import { createClient } from 'redis'
 const fnc = async() => {
     // Lets connect
     const client = createClient({ url:'redis://localhost:6379' })
-    client.on('error', (err) => { console.log('Redis Client Error: ', err); process.exit(2)});
+    client.on('error', (err) => { console.log('Redis Client Error: ', err); process.exit(2)})
 
     await client.connect();
 
