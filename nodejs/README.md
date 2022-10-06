@@ -11,7 +11,7 @@ docker exec -it hitc_redis sh /sampledata/load_all.sh
 ```
 
 ### Reload Sample Data
-Some tests are modifying the Sample Data so the next run will not represent the same dataset for tests. To reload everything use the next commands:
+Some tests modify the Sample Data so the next run will not start with the same dataset. To reload everything use the following commands:
 ```bash
 docker exec -it hitc_redis redis-cli flushall
 docker exec -it hitc_redis sh /sampledata/load_all.sh
