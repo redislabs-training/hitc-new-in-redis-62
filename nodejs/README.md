@@ -67,7 +67,7 @@ $ npm start
    [ '3', '5', '19', '27', '33', '56' ]
    [ false, true, false, true, false, true ]
 ```
-``Note - results might be abit offdue to random functions used``
+``Note - results might be a bit off due to random functions used``
 
 
 # Resources
