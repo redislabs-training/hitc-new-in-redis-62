@@ -5,7 +5,7 @@ This repository contains example data in nodejs using node-redis client.
 ## Setup and Start
 
 ### Sample Data
-Use the main readme.md for sample data load. Some examples are using preloaded keys.
+Use the main README.md for sample data load. Some examples are using preloaded keys.
 ```bash
 docker exec -it hitc_redis sh /sampledata/load_all.sh
 ```
